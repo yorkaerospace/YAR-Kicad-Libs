@@ -5,9 +5,11 @@ A collection of components, footprints and other things for use in YAR's kicad p
 ## Usage
 
 This repo can be included as a submodule within another repo by using the command:
-'''
+
+```shell
    git add submodule https://github.com/yorkaerospace/YAR-Kicad-Libs.git
-'''
+```
+
 It is advised that you put this *within* the kicad project itself, as kicad really does not like relative paths.
 
 If you've cloned a repo containing this library then you can download these libraries by running:
